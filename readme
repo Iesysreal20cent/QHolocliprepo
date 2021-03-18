@@ -3,6 +3,8 @@ REPO NAME:QHolocliprepo
 nothing special just a repo for code that can enable this.
 LAZY PROGRAMMER OVERSEAS NIKI.just download clips fast without search in YT.
 PS,very extensible.
+FORGET TO ADD,but it is developed as like a daily clip retriever.
+If you want the full one just edit the script.remove the maxdownload flag.
 
 LICENSE:GPLV3.
 Dislaimer,ANY financial gain IF EVER HAVE IS GONNA DIRECTLY USED ON HOLO MEM.
@@ -24,6 +26,10 @@ lua Ytuserexp.lua
 Tested known edge case.
 In a veracrypt run these.YUP,does not have write permission yada,yada.
 WHICH IS GOOD,in a way.secure i guess.
+
+If the member is streaming.The stupid yt-dl will download the whole stream..
+because it thought it is a small clip one by one..and then determine size.dumb.
+
 
 Support>
 Hololive?Or actually any cute or actually entertaining artist.
