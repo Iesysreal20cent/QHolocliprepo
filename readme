@@ -10,8 +10,11 @@ LICENSE:GPLV3.
 Dislaimer,ANY financial gain IF EVER HAVE IS GONNA DIRECTLY USED ON HOLO MEM.
 Plus if you have money just save it for their live or whatnot.
 
-Usage.
+Usage(IF YOUR CPU is Intelx64bit).
 DOWNLOAD REPO.
+(IF CARE SECURITY,START,ASSUME you are a lil bit smart)
+Verify sha refer to SEC file,or download delete the binaries
+(IF CARE SECURITY,END)
 go in folder hololive_channelvid
 copy the vidsrcchannellist
 paste into QHappy_UNIX/WIN_v(number?)
@@ -22,6 +25,12 @@ IF UNIX.I probably do not need to teach but.
 
 IF WIN
 lua Ytuserexp.lua
+
+IF YOUR CPU architeture is different then sadly.
+you need to download the official binaries.
+lua and youtube-dl.
+https://github.com/ytdl-org/youtube-dl
+https://www.lua.org
 
 Tested known edge case.
 In a veracrypt run these.YUP,does not have write permission yada,yada.
