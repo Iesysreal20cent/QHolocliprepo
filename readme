@@ -1,0 +1,30 @@
+REPO NAME:QHolocliprepo
+
+nothing special just a repo for code that can enable this.
+LAZY PROGRAMMER OVERSEAS NIKI.just download clips fast without search in YT.
+PS,very extensible.
+
+LICENSE:GPLV3.
+Dislaimer,ANY financial gain IF EVER HAVE IS GONNA DIRECTLY USED ON HOLO MEM.
+Plus if you have money just save it for their live or whatnot.
+
+Usage.
+DOWNLOAD REPO.
+go in folder hololive_channelvid
+copy the vidsrcchannellist
+paste into QHappy_UNIX/WIN_v(number?)
+go into your OS labelled FOLDER.
+
+IF UNIX.I probably do not need to teach but.
+./lua Ytuserexp.lua
+
+IF WIN
+lua Ytuserexp.lua
+
+Tested known edge case.
+In a veracrypt run these.YUP,does not have write permission yada,yada.
+WHICH IS GOOD,in a way.secure i guess.
+
+Support>
+Hololive?Or actually any cute or actually entertaining artist.
+Of course not only in youtube..but yeah...
